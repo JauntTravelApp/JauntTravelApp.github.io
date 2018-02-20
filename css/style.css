@@ -336,9 +336,13 @@ article[role="pge-title-content"].contact-header p a:hover{color:#fb5353; text-d
 
 .work-details header a{ display:inline-block; color:#fb5353; font-size:18px;font-weight:800;padding-top:3px}
 
+.pge-title-content a{ display:inline-block; color:#fb5353; font-size:18px;font-weight:800;padding-top:3px}
+
 .work-details header a i{ color:#0d0d0d; padding-left:10px}
 
 .work-details header a:hover{ color:#0d0d0d; text-decoration:none}
+
+.pge-title-content a:hover{ color:#0d0d0d; text-decoration:none}
 
 .work-details header a:hover i{ color:#fb5353}
 
